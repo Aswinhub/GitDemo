@@ -13,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
     //b2 line 1 added
     //b1 line 1 added
     //b2 cherry 1
+    //b2 cherry 2
+    //b2 cherry 3
 }
