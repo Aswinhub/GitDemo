@@ -9,6 +9,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+//        line 1
+//        line 2
+//        line 3
     }
     //new 1
     //b2 line 1 added
